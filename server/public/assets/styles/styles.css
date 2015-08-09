@@ -1,0 +1,57 @@
+*{
+    padding:10px;
+}
+body{
+    background-color: #fff;
+}
+
+
+
+.theForm{
+    /*width:900px;*/
+    text-align: center;
+    margin:auto;
+    padding:30px;
+    background-color: #2f2f2f;
+    color:#00aaa8;
+    font-size: 24px;
+    font-weight: bolder;
+}
+#container{
+
+}
+
+/*.containerStyle:nth-of-type(odd){*/
+
+
+/*}*/
+.containerStyle{
+    background-color: #00aaa8;
+
+}
+
+
+.deleteButton{
+    margin: 0;
+    display: inline-block;
+}
+#messageInput, #name, #submit{
+    margin:10px;
+}
+
+.author, .message{
+
+}
+.author{
+    font-size: 14px;
+    margin:0;
+    /*display: inline-block;*/
+}
+
+.message{
+    max-width: 850px;
+    margin:0 0 0 0;
+    font-size: 20px;
+    display: inline;
+}
+
